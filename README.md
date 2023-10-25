@@ -2,6 +2,7 @@
 1. Irwanto Danang Bahtiar - 1217050070
 2. Muhamad Randi Septiansah - 1217050086
 3. Muhamad Iqbal Fauzi - 1217050085
+4. Idfa Billati Hiya Ahsan - 1217050067
 
 # Assignment Detail
 mencari bentuk aplikasi yang menggunakan User Navigation (Navigation Drawer, Bottom Navigation dan Tab Navigation), jika sudah silahkan dibuat tampilan layoutnya
